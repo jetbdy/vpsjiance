@@ -23,5 +23,6 @@ tongji.php文件
 >define('KEY', "www");//验证KEY
 >define('PA', "www");//如果设置了密码，只有输入密码才能访问
  
-
+项目搬运于 
+http://git.oschina.net/supercell/service_count
 bash由来自悠久的翼
